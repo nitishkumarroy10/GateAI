@@ -1,0 +1,6 @@
+{
+  "name": "GateAI",
+  "description": "Production-quality, mobile-first SaaS web application for gate security and visitor management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
